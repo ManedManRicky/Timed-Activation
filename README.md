@@ -2,7 +2,8 @@
 
 This simple C library allows for the timed activation of functions and other similar objects that are used with it. 
 This library is not for a specific datatype as it is a generic library. All that needs to be created is the function 
-that'll be executed once the time runs out. All of the data is stored in the form of a linked list.
+that'll be executed once the time runs out. All of the data is stored in the form of a linked list. A version that
+uses contiguous memory (an array) can be found [here](https://github.com/ManedManRicky/Timed-Activation-Contiguous-Memory/tree/main)
 
 ### Structures and Definitions
 ---
